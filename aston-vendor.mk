@@ -885,6 +885,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/aston/proprietary/odm/lib64/camera/components/com.oplus.node.sstabphoto.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.node.sstabphoto.so \
     vendor/oneplus/aston/proprietary/odm/lib64/camera/components/com.oplus.node.sstabrealt.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.node.sstabrealt.so \
     vendor/oneplus/aston/proprietary/odm/lib64/camera/components/com.oplus.node.videoenhance.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.node.videoenhance.so \
+    vendor/oneplus/aston/proprietary/odm/lib64/camera/components/com.oplus.stats.aec.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.stats.aec.so \
+    vendor/oneplus/aston/proprietary/odm/lib64/camera/components/com.oplus.stats.af.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.stats.af.so \
+    vendor/oneplus/aston/proprietary/odm/lib64/camera/components/com.oplus.stats.awb.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.stats.awb.so \
+    vendor/oneplus/aston/proprietary/odm/lib64/camera/components/com.oplus.stats.pdlib.so:$(TARGET_COPY_OUT_ODM)/lib64/camera/components/com.oplus.stats.pdlib.so \
     vendor/oneplus/aston/proprietary/odm/lib64/camera/fdconfigpreview.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigpreview.bin \
     vendor/oneplus/aston/proprietary/odm/lib64/camera/fdconfigpreviewlite.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigpreviewlite.bin \
     vendor/oneplus/aston/proprietary/odm/lib64/camera/fdconfigvideo.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/fdconfigvideo.bin \
